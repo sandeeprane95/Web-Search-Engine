@@ -1,7 +1,7 @@
 ## A Web Search Engine for the UIC Domain  
 (Please read the pdf for details regarding the project)
 
-###How to run the code -  
+### How to run the code -  
 
 For Windows:-
 1. Open Command prompt:   Start menu -> Run  and type 'cmd'. This will cause the Windows terminal to open.  
